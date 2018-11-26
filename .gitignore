@@ -1,0 +1,14 @@
+# Unreal Generated Files
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Starter content included with Unreal
+StarterContent/
+
+# Visual Studio Generated Files
+*.VC.db*
+*.suo
+ipch/
