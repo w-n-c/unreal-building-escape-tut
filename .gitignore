@@ -5,6 +5,9 @@ DerivedDataCache/
 Intermediate/
 Saved/
 
+# Built data for maps
+*_BuiltData.uasset
+
 # Starter content included with Unreal
 StarterContent/
 
